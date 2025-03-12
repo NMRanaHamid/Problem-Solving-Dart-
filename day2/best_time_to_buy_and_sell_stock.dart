@@ -1,3 +1,5 @@
+import 'dart:math';
+
 class Solution {
   int maxProfit(List<int> prices) {
         if(prices.length==1){
